@@ -3,3 +3,5 @@ this is second change
 change after pushin to github
 another change
 affff
+
+changes as new clone
